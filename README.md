@@ -2,7 +2,7 @@
 
 Proyecto final de **Aprendizaje de Máquina** (Maestría). Todo el desarrollo (EDA, selección de variables, pipelines, optimización, comparación estadística, t-SNE y conclusiones) está en una sola notebook de Google Colab: [`02_clasificador_aprobacion_credito.ipynb`](./02_clasificador_aprobacion_credito.ipynb).
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JaviZoom/ProyectoFinalMachineLearning/blob/main/02_clasificador_aprobacion_credito/02_clasificador_aprobacion_credito.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JaviZoom/ProyectoFinalMachineLearning/blob/main/02_clasificador_aprobacion_credito.ipynb)
 
 ## Problema
 
@@ -64,7 +64,7 @@ El tiempo de ejecución es de unos pocos minutos.
 ## Estructura del repositorio
 
 ```
-02_clasificador_aprobacion_credito/
+ProyectoFinalMachineLearning/
 ├── 02_clasificador_aprobacion_credito.ipynb   # Proyecto completo
 ├── 02_clasificador_aprobacion_credito.pdf     # Versión en PDF de la notebook
 ├── README.md
